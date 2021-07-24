@@ -59,7 +59,6 @@
 3.麻雀SSA优化LSTM负荷预测（python3.6  tensorflow1.x框架）：https://mianbaoduo.com/o/bread/YZmbmZpr
 4.鲸鱼WOA优化LSTM负荷预测（python36，tensorflow1.x）：https://mianbaoduo.com/o/bread/YZqTmJ5q
 5.基于重要性分析与麻雀优化LSTM的回归分析(py36，tensorflow2.x框架)： https://mianbaoduo.com/o/bread/YZqTk5hx
-MATLAB代码
 6.MATLAB量子粒子群QPSO优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZmbmZZr
 7.MATLAB灰狼GWO优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZmbmZdr
 8.MATLAB鲸鱼WOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZqTmJtw
