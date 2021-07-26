@@ -97,3 +97,7 @@
 ---------
 1.MATLAB麻雀优化CNN超参数分类：https://mianbaoduo.com/o/bread/YZuYmpxu  
 2.MATLAB麻雀优化CNN超参数回归：https://mianbaoduo.com/o/bread/YZuZkppy  
+
+11）其他程序
+----
+基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
