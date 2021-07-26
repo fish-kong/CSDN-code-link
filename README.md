@@ -86,4 +86,4 @@
 
 10)matlab的cnn超参数优化
 1.MATLAB麻雀优化CNN超参数分类：https://mianbaoduo.com/o/bread/YZuYmpxu
-2.MATLAB麻雀优化CNN超参数回归：
+2.MATLAB麻雀优化CNN超参数回归：https://mianbaoduo.com/o/bread/YZuZkppy
