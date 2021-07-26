@@ -4,9 +4,9 @@
 
 1）MATLAB深度极限学习机用于回归及其优化
 ----
-1.麻雀优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam5xq
-2.粒子群PSO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam51q
-3.旗鱼SFO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmbkppv
+1.麻雀优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam5xq  
+2.粒子群PSO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam51q  
+3.旗鱼SFO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmbkppv  
 4.蜉蝣MA优化DELM权重用于回归： https://mianbaoduo.com/o/bread/YZmckp1t
 5.遗传GA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp5p
 6.蝙蝠BAT优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp9q
