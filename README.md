@@ -98,6 +98,10 @@
 1.MATLAB麻雀优化CNN超参数分类：https://mianbaoduo.com/o/bread/YZuYmpxu  
 2.MATLAB麻雀优化CNN超参数回归：https://mianbaoduo.com/o/bread/YZuZkppy  
 
+11）最优特征子集筛选
+---
+1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mianbaoduo.com/o/bread/YZuZkp9p  
+
 11）其他程序
 ----
 基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
