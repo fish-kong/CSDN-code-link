@@ -28,8 +28,8 @@
 6.MATLAB模拟退火优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1t  
 7.MATLAB旗鱼优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1v  
 8.MATLAB物体碰撞优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1w  
-7.MATLAB旗鱼优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1x  
-8.Python麻雀优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ5y  
+9.MATLAB遗传优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1x  
+10.Python麻雀优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ5y  
 
 
 3）MATLAB深度核极限学习机用于分类及其优化
