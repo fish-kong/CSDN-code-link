@@ -19,7 +19,7 @@
 
 2）深度极限学习机用于分类及其优化
 ----
-0.深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1y  
+0.MATLAB深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1y  
 1.MATLAB粒子群优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZxq  
 2.MATLAB麻雀优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZxt  
 3.MATLAB蝙蝠优化深度极限学习机分类:https://mianbaoduo.com/o/bread/YZuUmZxx  
