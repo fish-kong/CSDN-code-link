@@ -2,22 +2,22 @@
 由于CSDN博客里面不能直接上代码链接，因此建一个github仓库用于整理这些代码链接
 
 
-1）MATLAB深度极限学习机用于回归及其优化
+1）深度极限学习机用于回归及其优化
 ----
-1.麻雀优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam5xq  
-2.粒子群PSO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam51q  
-3.旗鱼SFO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmbkppv  
-4.蜉蝣MA优化DELM权重用于回归： https://mianbaoduo.com/o/bread/YZmckp1t  
-5.遗传GA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp5p  
-6.蝙蝠BAT优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp9q  
-7.模拟退火SA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmck5Zr  
-8.禁忌搜索TS优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmck5Zs  
-9.增强碰撞体ECBO优化深度极限学习机DELM回归：https://mianbaoduo.com/o/bread/YZmck5dp  
-10.灰狼GWO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZqXm5tv  
-11.鲸鱼WOA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZqXm5tx  
+1.MATLAB麻雀优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam5xq  
+2.MATLAB粒子群PSO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam51q  
+3.MATLAB旗鱼SFO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmbkppv  
+4.MATLAB蜉蝣MA优化DELM权重用于回归： https://mianbaoduo.com/o/bread/YZmckp1t  
+5.MATLAB遗传GA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp5p  
+6.MATLAB蝙蝠BAT优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmckp9q  
+7.MATLAB模拟退火SA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmck5Zr  
+8.MATLAB禁忌搜索TS优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmck5Zs  
+9.MATLAB增强碰撞体ECBO优化深度极限学习机DELM回归：https://mianbaoduo.com/o/bread/YZmck5dp  
+10.MATLAB灰狼GWO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZqXm5tv  
+11.MATLAB鲸鱼WOA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZqXm5tx  
+12.Python的麻雀SSA优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZyUm5ht
 
-
-2）MATLAB深度极限学习机用于分类及其优化
+2）深度极限学习机用于分类及其优化
 ----
 0.深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1y  
 1.MATLAB粒子群优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZxq  
