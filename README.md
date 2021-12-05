@@ -43,6 +43,7 @@
 1.MATLAB的EMD+模拟退火优化DBN：https://mianbaoduo.com/o/bread/YZuUm55w  
 2.MATLAB的EMD结合麻雀优化LSTM：https://mianbaoduo.com/o/bread/YZuXmJ1x  
 3.基于变分模态分解与麻雀优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YZuUmZty  
+3.基于EEMD分解与改进鲸鱼优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YpWal5dt  
 
 
 5）轴承故障诊断
