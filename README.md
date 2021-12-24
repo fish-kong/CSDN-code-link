@@ -60,8 +60,9 @@
 6）深度学习+注意力机制用于负荷预测
 --------
 1.双向LSTM注意力机制负荷预测：https://mianbaoduo.com/o/bread/YZqTm5ps  
-2.鲸鱼WOA优化双向LSTM注意力机制负荷预测：https://mianbaoduo.com/o/bread/YZqTm5tp  
+2.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTm5tp  
 3.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法：https://mianbaoduo.com/o/bread/YZqTmJ1u  
+4.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow2.x.keras：https://mianbaoduo.com/o/bread/YZqTm5tp    
 
 
 7）深度学习超参数优化时间序列预测
