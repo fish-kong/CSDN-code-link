@@ -79,6 +79,7 @@
 10.MATLAB基于同步挤压小波降噪与改进麻雀优化长短时记忆网络的时间序列预测：https://mianbaoduo.com/o/bread/YZmbmZpt  
 11.MATLAB阿基米德AOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZ6VlJxq    
 12.MATLAB黏菌优化SMA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZ6Xmp1w  
+13.MATLAB蝴蝶优化BOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/mbd-YpaXlJlq  
 
 8） 多核学习
 --------
