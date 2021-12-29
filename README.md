@@ -80,7 +80,8 @@
 11.MATLAB阿基米德AOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZ6VlJxq    
 12.MATLAB黏菌优化SMA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZ6Xmp1w  
 13.MATLAB蝴蝶优化BOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/mbd-YpaXlJlq  
-
+14.MATLAB均衡优化器EO优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YpaXlJlp  
+15.MATLAB人工大猩猩部队优化GTO优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZuUm5xv  
 8） 多核学习
 --------
 1.贝叶斯优化混合核极限学习机用于回归预测 ：https://mianbaoduo.com/o/bread/YZmck5dx  
