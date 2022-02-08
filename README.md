@@ -77,7 +77,7 @@
 8.MATLAB鲸鱼WOA优化LSTM负荷预测：https://mianbaoduo.com/o/bread/YZqTmJtw  
 9.MATLAB基于同步挤压小波降噪与贝叶斯优化长短时记忆网络的时间序列预测：https://mianbaoduo.com/o/bread/YZmck5pr  
 10.MATLAB基于同步挤压小波降噪与改进麻雀优化长短时记忆网络的时间序列预测：https://mianbaoduo.com/o/bread/YZmbmZpt  
-11.MATLAB阿基米德AOA优化LSTM时间序列预测：https://mianbaoduo.com/o/bread/YZ6VlJxq    
+11.MATLAB算术优化算法AOA优化LSTM时间序列预测：https://mianbaoduo.com/o/bread/YZ6VlJxq    
 12.MATLAB黏菌优化SMA优化LSTM时间序列预测：https://mianbaoduo.com/o/bread/YZ6Xmp1w  
 13.MATLAB蝴蝶优化BOA优化LSTM时间序列预测：https://mianbaoduo.com/o/bread/mbd-YpaXlJlq  
 14.MATLAB均衡优化器EO优化LSTM时间序列预测：https://mianbaoduo.com/o/bread/YpaXlJlp  
