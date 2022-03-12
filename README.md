@@ -38,10 +38,10 @@
 3）MATLAB深度核（混合核）极限学习机用于分类及其优化
 ----
 
-单核
+单核  
 1.MATLAB粒子群优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xs  
 2.MATLAB贝叶斯优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xw  
-多核：
+多核：  
 1.MATLAB原子轨道优化深度混合核极限学习机的轴承故障诊断(AOS-DHKELM)：https://mianbaoduo.com/o/bread/mbd-YpiYl5ts  
 2.MATLAB天鹰优化器优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：https://mianbaoduo.com/o/bread/mbd-YpiYl5tt  
 3.MATLAB气味体优化深度混合核极限学习机的轴承故障诊断(SAO-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5tx  
@@ -107,16 +107,16 @@
 8） 多核学习
 --------
 
-混合核极限学习机回归
+混合核极限学习机回归  
 1.MATLAB贝叶斯优化混合核极限学习机用于回归预测 ：https://mianbaoduo.com/o/bread/YZmck5dx  
 2.MATLAB粒子群PSO优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmJ5v  
 3.MATLAB鲸鱼WOA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZZs  
 4.MATLAB遗传GA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdp  
 5.MATLAB麻雀SSA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdv 
 
-混合核极限学习机分类
+混合核极限学习机分类  
 6.MATLAB贝叶斯优化混合核极限学习机用于分类：https://mianbaoduo.com/o/bread/YZmck5lw （注意是分类哈） 
-混合核支持向量机
+混合核支持向量机  
 7.MATLAB贝叶斯优化混合核支持向量机用于回归预测：https://mianbaoduo.com/o/bread/YZmblZZs （注意是混合核支持向量机）  
 8.MATLAB贝叶斯优化混合核支持向量机用于分类：https://mianbaoduo.com/o/bread/YZmck5hq  
 
