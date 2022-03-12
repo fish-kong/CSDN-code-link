@@ -71,7 +71,7 @@
 5.Torch基于FFT频谱与小波时频图的双流CNN轴承故障诊断模型：：https://mianbaoduo.com/o/bread/YZqYk5tx  
 6.MATLAB基于小波时频图与CNN的轴承故障诊断:https://mianbaoduo.com/o/bread/YZqYk5pv  
 7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,tensorflow1.x）:https://mianbaoduo.com/o/bread/YZqZlJ9x  
-
+8.MATLAB的HHT包络谱+堆栈降噪自编码SDAE轴承故障诊断：https://mianbaoduo.com/o/bread/YpiYl59u    
 
 6）深度学习+注意力机制用于负荷预测
 --------
