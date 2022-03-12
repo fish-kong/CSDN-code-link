@@ -32,29 +32,39 @@
 10.Python麻雀优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ5y  
 
 
-3）MATLAB深度核极限学习机用于分类及其优化
+3）MATLAB深度核（混合核）极限学习机用于分类及其优化
 ----
+单核
 1.MATLAB粒子群优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xs  
 2.MATLAB贝叶斯优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xw  
-
+多核：
+1.MATLAB原子轨道优化深度混合核极限学习机的轴承故障诊断(AOS-DHKELM)：  
+2.MATLAB天鹰优化器优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：  
+3.MATLAB气味体优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：  
+4.MATLAB灰狼优化深度混合核极限学习机的轴承故障诊断(GWO-DHKELM)：  
+5.MATLAB算术优化算法优化深度混合核极限学习机的轴承故障诊断(AOA-DHKELM)：  
+6.MATLAB粒子群优化深度混合核极限学习机的轴承故障诊断(PSO-DHKELM)：  
+7.MATLAB蜉蝣优化深度混合核极限学习机的轴承故障诊断(MA-DHKELM)：  
+8.MATLAB鲸鱼优化深度混合核极限学习机的轴承故障诊断(WOA-DHKELM)：  
+9.MATLAB麻雀优化深度混合核极限学习机的轴承故障诊断(SSA-DHKELM)：  
 
 4）时间序列分解+优化算法优化回归模型
 ------
 1.MATLAB的EMD+模拟退火优化DBN：https://mianbaoduo.com/o/bread/YZuUm55w  
 2.MATLAB的EMD结合麻雀优化LSTM：https://mianbaoduo.com/o/bread/YZuXmJ1x  
-3.基于变分模态分解与麻雀优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YZuUmZty  
-3.基于EEMD分解与改进鲸鱼优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YpWal5dt  
+3.MATLAB基于变分模态分解与麻雀优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YZuUmZty  
+3.MATLAB基于EEMD分解与改进鲸鱼优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YpWal5dt  
 
 
 5）轴承故障诊断
 --------
 1.MATLAB的麻雀优化DBN权重故障诊断：https://mianbaoduo.com/o/bread/YZqTm5Zy  
 2.基于MATLAB的深度自动编码器的无监督轴承异常检测：https://mianbaoduo.com/o/bread/YZmbkppw  
-3.基于小波时频图与MLP-Mixer的轴承故障诊断：https://mianbaoduo.com/o/bread/YZmblZZu  
-4.基于小波时频图与VIT vision transformer的轴承故障诊断：https://mianbaoduo.com/o/bread/YZmbl5Zw  
-5.基于FFT频谱与小波时频图的双流CNN轴承故障诊断模型：：https://mianbaoduo.com/o/bread/YZqYk5tx  
-6.基于小波时频图与CNN的轴承故障诊断:https://mianbaoduo.com/o/bread/YZqYk5pv  
-7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断:https://mianbaoduo.com/o/bread/YZqZlJ9x  
+3.Torch基于小波时频图与MLP-Mixer的轴承故障诊断：https://mianbaoduo.com/o/bread/YZmblZZu  
+4.Torch基于小波时频图与VIT vision transformer的轴承故障诊断：https://mianbaoduo.com/o/bread/YZmbl5Zw  
+5.Torch基于FFT频谱与小波时频图的双流CNN轴承故障诊断模型：：https://mianbaoduo.com/o/bread/YZqYk5tx  
+6.MATLAB基于小波时频图与CNN的轴承故障诊断:https://mianbaoduo.com/o/bread/YZqYk5pv  
+7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,tensorflow1.x）:https://mianbaoduo.com/o/bread/YZqZlJ9x  
 
 
 6）深度学习+注意力机制用于负荷预测
@@ -88,14 +98,18 @@
 
 8） 多核学习
 --------
-1.贝叶斯优化混合核极限学习机用于回归预测 ：https://mianbaoduo.com/o/bread/YZmck5dx  
-2.粒子群PSO优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmJ5v  
-3.鲸鱼WOA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZZs  
-4.遗传GA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdp  
-5.麻雀SSA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdv   
-6.贝叶斯优化混合核极限学习机用于分类：https://mianbaoduo.com/o/bread/YZmck5lw （注意是分类哈）  
-7.贝叶斯优化混合核支持向量机用于回归预测：https://mianbaoduo.com/o/bread/YZmblZZs （注意是混合核支持向量机）  
-8.贝叶斯优化混合核支持向量机用于分类：https://mianbaoduo.com/o/bread/YZmck5hq  
+混合核极限学习机回归
+1.MATLAB贝叶斯优化混合核极限学习机用于回归预测 ：https://mianbaoduo.com/o/bread/YZmck5dx  
+2.MATLAB粒子群PSO优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmJ5v  
+3.MATLAB鲸鱼WOA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZZs  
+4.MATLAB遗传GA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdp  
+5.MATLAB麻雀SSA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdv 
+
+混合核极限学习机分类
+6.MATLAB贝叶斯优化混合核极限学习机用于分类：https://mianbaoduo.com/o/bread/YZmck5lw （注意是分类哈） 
+混合核支持向量机
+7.MATLAB贝叶斯优化混合核支持向量机用于回归预测：https://mianbaoduo.com/o/bread/YZmblZZs （注意是混合核支持向量机）  
+8.MATLAB贝叶斯优化混合核支持向量机用于分类：https://mianbaoduo.com/o/bread/YZmck5hq  
 
 9）Torch版本智能算法优化深度学习超参数
 -------
@@ -111,6 +125,6 @@
 ---
 1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mianbaoduo.com/o/bread/YZuZkp9p  
 
-11）其他程序
+12）自定义layer
 ----
 基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
