@@ -1,9 +1,11 @@
 # CSDN-code-link
+
 由于CSDN博客里面不能直接上代码链接，因此建一个github仓库用于整理这些代码链接
 
 
 1）深度极限学习机用于回归及其优化
 ----
+
 1.MATLAB麻雀优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam5xq  
 2.MATLAB粒子群PSO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmam51q  
 3.MATLAB旗鱼SFO优化DELM权重用于回归：https://mianbaoduo.com/o/bread/YZmbkppv  
@@ -19,6 +21,7 @@
 
 2）深度极限学习机用于分类及其优化
 ----
+
 0.MATLAB深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZ1y  
 1.MATLAB粒子群优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZxq  
 2.MATLAB麻雀优化深度极限学习机分类：https://mianbaoduo.com/o/bread/YZuUmZxt  
@@ -34,22 +37,24 @@
 
 3）MATLAB深度核（混合核）极限学习机用于分类及其优化
 ----
-单核:  
+
+单核
 1.MATLAB粒子群优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xs  
 2.MATLAB贝叶斯优化深度核极限学习机分类：https://mianbaoduo.com/o/bread/YZuUm5xw  
-多核：  
-1.MATLAB原子轨道优化深度混合核极限学习机的轴承故障诊断(AOS-DHKELM)：  
-2.MATLAB天鹰优化器优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：  
-3.MATLAB气味体优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：  
-4.MATLAB灰狼优化深度混合核极限学习机的轴承故障诊断(GWO-DHKELM)：  
-5.MATLAB算术优化算法优化深度混合核极限学习机的轴承故障诊断(AOA-DHKELM)：  
-6.MATLAB粒子群优化深度混合核极限学习机的轴承故障诊断(PSO-DHKELM)：  
-7.MATLAB蜉蝣优化深度混合核极限学习机的轴承故障诊断(MA-DHKELM)：  
-8.MATLAB鲸鱼优化深度混合核极限学习机的轴承故障诊断(WOA-DHKELM)：  
-9.MATLAB麻雀优化深度混合核极限学习机的轴承故障诊断(SSA-DHKELM)：  
+多核：
+1.MATLAB原子轨道优化深度混合核极限学习机的轴承故障诊断(AOS-DHKELM)：https://mianbaoduo.com/o/bread/mbd-YpiYl5ts  
+2.MATLAB天鹰优化器优化深度混合核极限学习机的轴承故障诊断(AO-DHKELM)：https://mianbaoduo.com/o/bread/mbd-YpiYl5tt  
+3.MATLAB气味体优化深度混合核极限学习机的轴承故障诊断(SAO-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5tx  
+4.MATLAB灰狼优化深度混合核极限学习机的轴承故障诊断(GWO-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5xp  
+5.MATLAB算术优化算法优化深度混合核极限学习机的轴承故障诊断(AOA-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5xr  
+6.MATLAB粒子群优化深度混合核极限学习机的轴承故障诊断(PSO-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5xs  
+7.MATLAB蜉蝣优化深度混合核极限学习机的轴承故障诊断(MA-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5xt  
+8.MATLAB鲸鱼优化深度混合核极限学习机的轴承故障诊断(WOA-DHKELM)：https://mianbaoduo.com/o/bread/mbd-YpiYl5tr  
+9.MATLAB麻雀优化深度混合核极限学习机的轴承故障诊断(SSA-DHKELM)：https://mianbaoduo.com/o/bread/YpiYl5xu     
 
 4）时间序列分解+优化算法优化回归模型
 ------
+
 1.MATLAB的EMD+模拟退火优化DBN：https://mianbaoduo.com/o/bread/YZuUm55w  
 2.MATLAB的EMD结合麻雀优化LSTM：https://mianbaoduo.com/o/bread/YZuXmJ1x  
 3.MATLAB基于变分模态分解与麻雀优化最小二乘支持向量机的短期电力负荷预测：https://mianbaoduo.com/o/bread/YZuUmZty  
@@ -58,6 +63,7 @@
 
 5）轴承故障诊断
 --------
+
 1.MATLAB的麻雀优化DBN权重故障诊断：https://mianbaoduo.com/o/bread/YZqTm5Zy  
 2.基于MATLAB的深度自动编码器的无监督轴承异常检测：https://mianbaoduo.com/o/bread/YZmbkppw  
 3.Torch基于小波时频图与MLP-Mixer的轴承故障诊断：https://mianbaoduo.com/o/bread/YZmblZZu  
@@ -69,6 +75,7 @@
 
 6）深度学习+注意力机制用于负荷预测
 --------
+
 1.双向LSTM注意力机制负荷预测：https://mianbaoduo.com/o/bread/YZqTm5ps  
 2.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTm5tp  
 3.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法：https://mianbaoduo.com/o/bread/YZqTmJ1u  
@@ -77,6 +84,7 @@
 
 7）深度学习超参数优化时间序列预测
 --------
+
 1.改进PSO优化LSTM负荷预测（python3.6 tensorflow1.x框架）：https://mianbaoduo.com/o/bread/YZmbmJhy  
 2.布谷鸟CS优化LSTM负荷预测（python3.6  tensorflow1.x框架）：https://mianbaoduo.com/o/bread/YZmbmZlw  
 3.麻雀SSA优化LSTM负荷预测（python3.6  tensorflow1.x框架）：https://mianbaoduo.com/o/bread/YZmbmZpr  
@@ -98,34 +106,38 @@
 
 8） 多核学习
 --------
-混合核极限学习机回归  
+
+混合核极限学习机回归
 1.MATLAB贝叶斯优化混合核极限学习机用于回归预测 ：https://mianbaoduo.com/o/bread/YZmck5dx  
 2.MATLAB粒子群PSO优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmJ5v  
 3.MATLAB鲸鱼WOA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZZs  
 4.MATLAB遗传GA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdp  
 5.MATLAB麻雀SSA优化混合核极限学习机用于回归预测：https://mianbaoduo.com/o/bread/YZqZmZdv 
 
-混合核极限学习机分类  
+混合核极限学习机分类
 6.MATLAB贝叶斯优化混合核极限学习机用于分类：https://mianbaoduo.com/o/bread/YZmck5lw （注意是分类哈） 
-
-混合核支持向量机  
+混合核支持向量机
 7.MATLAB贝叶斯优化混合核支持向量机用于回归预测：https://mianbaoduo.com/o/bread/YZmblZZs （注意是混合核支持向量机）  
 8.MATLAB贝叶斯优化混合核支持向量机用于分类：https://mianbaoduo.com/o/bread/YZmck5hq  
 
 9）Torch版本智能算法优化深度学习超参数
 -------
+
 1、Pytorch的遗传优化DBN超参数回归：https://mianbaoduo.com/o/bread/YZuXmJlq  
 2、Pytorch的遗传优化DBN超参数分类：https://mianbaoduo.com/o/bread/YZuXmJpq  
 
 10)matlab的cnn超参数优化
 ---------
+
 1.MATLAB麻雀优化CNN超参数分类：https://mianbaoduo.com/o/bread/YZuYmpxu  
 2.MATLAB麻雀优化CNN超参数回归：https://mianbaoduo.com/o/bread/YZuZkppy  
 
 11）最优特征子集筛选
 ---
+
 1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mianbaoduo.com/o/bread/YZuZkp9p  
 
 12）自定义layer
 ----
-1.基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
+
+基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
