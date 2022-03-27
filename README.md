@@ -71,6 +71,7 @@
 5.Torch基于FFT频谱与小波时频图的双流CNN轴承故障诊断模型：：https://mianbaoduo.com/o/bread/YZqYk5tx  
 6.MATLAB基于小波时频图与CNN的轴承故障诊断:https://mianbaoduo.com/o/bread/YZqYk5pv  
 7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,tensorflow1.x）:https://mianbaoduo.com/o/bread/YZqZlJ9x  
+7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,**tensorflow2.x**）:https://mianbaoduo.com/o/bread/mbd-YpiclZ1p  
 8.MATLAB的HHT包络谱+堆栈降噪自编码SDAE轴承故障诊断：https://mianbaoduo.com/o/bread/YpiYl59u    
 
 6）深度学习+注意力机制用于负荷预测
@@ -78,9 +79,9 @@
 
 1.双向LSTM注意力机制负荷预测：https://mianbaoduo.com/o/bread/YZqTm5ps  
 2.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTm5tp  
-3.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法：https://mianbaoduo.com/o/bread/YZqTmJ1u  
-4.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow2.x.keras：https://mianbaoduo.com/o/bread/YZqTm5tp    
-
+3.鲸鱼WOA优化双向LSTM注意力机制负荷预测**tensorflow2.x.keras**：https://mianbaoduo.com/o/bread/YZqTm5tp  
+4.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTmJ1u  
+5.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法**tensorflow2.x.keras**：https://mianbaoduo.com/o/bread/YpiclZ5u  
 
 7）深度学习超参数优化时间序列预测
 --------
