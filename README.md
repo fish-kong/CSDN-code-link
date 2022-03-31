@@ -79,7 +79,7 @@
 
 1.双向LSTM注意力机制负荷预测：https://mianbaoduo.com/o/bread/YZqTm5ps  
 2.鲸鱼WOA优化双向LSTM注意力机制负荷预测tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTm5tp  
-3.鲸鱼WOA优化双向LSTM注意力机制负荷预测**tensorflow2.x.keras**：https://mianbaoduo.com/o/bread/YZqTm5tp  
+3.鲸鱼WOA优化双向LSTM注意力机制负荷预测**tensorflow2.x.keras**：https://mianbaoduo.com/o/bread/YpaWmp1r  
 4.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法tensorflow1.x：https://mianbaoduo.com/o/bread/YZqTmJ1u  
 5.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法**tensorflow2.x.keras**：https://mianbaoduo.com/o/bread/YpiclZ5u  
 
