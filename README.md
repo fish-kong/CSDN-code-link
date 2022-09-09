@@ -143,3 +143,9 @@
 ----
 
 基于tf2.0的小波长短时记忆网络:https://mianbaoduo.com/o/bread/YZuZkp5v  
+
+13)matlab的cnn-lstm超参数优化
+---------
+
+1.MATLAB人工大猩猩部队GTO优化CNN-LSTM用于多变量负荷预测：https://mianbaoduo.com/o/bread/mbd-Y5aTkpty  
+
