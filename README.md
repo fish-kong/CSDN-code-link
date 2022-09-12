@@ -73,7 +73,7 @@
 7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,tensorflow1.x）:https://mianbaoduo.com/o/bread/YZqZlJ9x  
 7.融合CNN(2D-CNN与1D-CNN融合)与SVM的滚动轴承故障诊断（python,**tensorflow2.x**）:https://mianbaoduo.com/o/bread/mbd-YpiclZ1p  
 8.MATLAB的HHT包络谱+堆栈降噪自编码SDAE轴承故障诊断：https://mianbaoduo.com/o/bread/YpiYl59u    
-
+9.Torch基于小波时频图与Swin transformer的轴承故障诊断：https://mianbaoduo.com/o/bread/Y5aWmZZu  
 6）深度学习+注意力机制用于负荷预测
 --------
 
@@ -148,4 +148,6 @@
 ---------
 
 1.MATLAB人工大猩猩部队GTO优化CNN-LSTM用于多变量负荷预测：https://mianbaoduo.com/o/bread/mbd-Y5aTkpty  
+2.MATLAB算术优化算法AOA优化CNN-LSTM用于多变量负荷预测：https://mianbaoduo.com/o/bread/Y5aWmZhr  
+3.MATLAB蜜獾优化算法HBA优化CNN-LSTM用于多变量负荷预测：https://mianbaoduo.com/o/bread/Y5aWmZlr  
 
