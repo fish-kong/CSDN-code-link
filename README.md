@@ -84,7 +84,7 @@
 4.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法tensorflow1.x：https://mbd.pub/o/bread/YZqTmJ1u  
 5.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法**tensorflow2.x.keras**：https://mbd.pub/o/bread/YpiclZ5u  
 
-7）深度学习超参数优化时间序列预测
+7）深度学习LSTM超参数优化时间序列预测
 --------
 
 1.改进PSO优化LSTM负荷预测（python3.6 tensorflow1.x框架）：https://mbd.pub/o/bread/YZmbmJhy  
@@ -129,11 +129,16 @@
 1、Pytorch的遗传优化DBN超参数回归：https://mbd.pub/o/bread/YZuXmJlq  
 2、Pytorch的遗传优化DBN超参数分类：https://mbd.pub/o/bread/YZuXmJpq  
 
+
+
 10)matlab的cnn超参数优化
 ---------
 
 1.MATLAB麻雀优化CNN超参数分类：https://mbd.pub/o/bread/YZuYmpxu  
 2.MATLAB麻雀优化CNN超参数回归：https://mbd.pub/o/bread/YZuZkppy  
+3.MATLAB灰狼优化CNN超参数回归：https://mbd.pub/o/bread/Y5uZkplr  
+4.MATLAB鲸鱼优化CNN超参数回归：https://mbd.pub/o/bread/Y5aWmZZr  
+
 
 11）最优特征子集筛选
 ---
@@ -149,3 +154,5 @@
 ---------
 
 1.MATLAB人工大猩猩部队GTO优化CNN-LSTM用于多变量负荷预测：https://mbd.pub/o/bread/mbd-Y5aTkpty  
+2.MATLAB蜜獾优化算法HBA优化CNN-LSTM用于多变量负荷预测：https://mbd.pub/o/bread/Y5aWmZlr  
+3.matlab的算术优化算法AOA优化cnn_lstm多变量时间序列预测：https://mbd.pub/o/bread/Y5aWmZhr  
