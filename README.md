@@ -140,11 +140,11 @@
 4.MATLAB鲸鱼优化CNN超参数回归：https://mbd.pub/o/bread/Y5aWmZZr  
 
 
-11）最优特征子集筛选
+11）最优特征筛选
 ---
 
 1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mbd.pub/o/bread/YZuZkp9p  
-
+2.python基于鲸鱼woa优化的vmd超参数选择：https://mbd.pub/o/bread/mbd-Y5uamZxx
 12）自定义layer
 ----
 
