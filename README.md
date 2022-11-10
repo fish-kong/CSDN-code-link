@@ -144,7 +144,9 @@
 ---
 
 1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mbd.pub/o/bread/YZuZkp9p  
-2.python基于鲸鱼woa优化的vmd超参数选择：https://mbd.pub/o/bread/mbd-Y5uamZxx
+2.python基于鲸鱼woa优化的变分模态分解vmd超参数选择：https://mbd.pub/o/bread/mbd-Y5uamZxx  
+3.matlab基于人工大猩猩部队GTO优化的共振稀疏分解RSSD超参数选择：https://mbd.pub/o/bread/Y5uam5hs    
+
 12）自定义layer
 ----
 
