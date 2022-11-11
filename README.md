@@ -128,6 +128,7 @@
 
 1、Pytorch的遗传优化DBN超参数回归：https://mbd.pub/o/bread/YZuXmJlq  
 2、Pytorch的遗传优化DBN超参数分类：https://mbd.pub/o/bread/YZuXmJpq  
+3、Pytorch的鲸鱼WOA优化1DCNN超参数分类：https://mbd.pub/o/bread/mbd-Y5ublZ5q  
 
 
 
