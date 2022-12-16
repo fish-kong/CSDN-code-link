@@ -89,6 +89,7 @@
 
 1.改进PSO优化LSTM负荷预测（python3.6 tensorflow1.x框架）：https://mbd.pub/o/bread/YZmbmJhy  
 2.布谷鸟CS优化LSTM负荷预测（python3.6  tensorflow1.x框架）：https://mbd.pub/o/bread/YZmbmZlw  
+2.布谷鸟CS优化LSTM负荷预测（python3.6  tensorflow**2.x**框架）：https://mbd.pub/o/bread/Y52XmJhr  
 3.麻雀SSA优化LSTM负荷预测（python3.6  tensorflow1.x框架）：https://mbd.pub/o/bread/YZmbmZpr  
 4.鲸鱼WOA优化LSTM负荷预测（python36，tensorflow**1.x**）：https://mbd.pub/o/bread/YZqTmJ5q  
 4.鲸鱼WOA优化LSTM负荷预测（python36，tensorflow**2.x**）：https://mbd.pub/o/bread/YpaWmp1r  
