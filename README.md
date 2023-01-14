@@ -84,7 +84,11 @@
 4.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法tensorflow1.x：https://mbd.pub/o/bread/YZqTmJ1u  
 5.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法**tensorflow2.x.keras**：https://mbd.pub/o/bread/YpiclZ5u  
 6.基于自注意力机制self-attention的LSTM多变量负荷预测**tensorflow2.x.keras**:https://mbd.pub/o/bread/Y52bmJpy  
+<<<<<<< HEAD
 7.基于trasformer的多变量时间序列预测**tensorflow2.x.keras**:https://mbd.pub/o/bread/Y56Vl5Zp  
+=======
+
+>>>>>>> 372fa4d4789ec9f77f20bfc01944165166577d5e
 
 7）深度学习LSTM超参数优化时间序列预测
 --------
