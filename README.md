@@ -83,6 +83,8 @@
 3.鲸鱼WOA优化双向LSTM注意力机制负荷预测**tensorflow2.x.keras**：https://mbd.pub/o/bread/YpaWmp1r  
 4.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法tensorflow1.x：https://mbd.pub/o/bread/YZqTmJ1u  
 5.基于注意力机制的 CNN-BiGRU 短期电力负荷预测方法**tensorflow2.x.keras**：https://mbd.pub/o/bread/YpiclZ5u  
+6.基于自注意力机制self-attention的LSTM多变量负荷预测**tensorflow2.x.keras**:https://mbd.pub/o/bread/Y52bmJpy  
+7.基于trasformer的多变量时间序列预测**tensorflow2.x.keras**:https://mbd.pub/o/bread/Y56Vl5Zp  
 
 7）深度学习LSTM超参数优化时间序列预测
 --------
@@ -129,9 +131,7 @@
 
 1、Pytorch的遗传优化DBN超参数回归：https://mbd.pub/o/bread/YZuXmJlq  
 2、Pytorch的遗传优化DBN超参数分类：https://mbd.pub/o/bread/YZuXmJpq  
-3、Pytorch的鲸鱼WOA优化1DCNN超参数分类：https://mbd.pub/o/bread/mbd-Y5ublZ5q  
-
-
+3、Pytorch的鲸鱼WOA优化1DCNN超参数分类：https://mbd.pub/o/bread/Y5ublZ5q  
 
 10)matlab的cnn超参数优化
 ---------
@@ -141,13 +141,14 @@
 3.MATLAB灰狼优化CNN超参数回归：https://mbd.pub/o/bread/Y5uZkplr  
 4.MATLAB鲸鱼优化CNN超参数回归：https://mbd.pub/o/bread/Y5aWmZZr  
 
-
 11）最优特征筛选
 ---
 
 1.python基于特征选择（PSO+CTree）的网络入侵检测：https://mbd.pub/o/bread/YZuZkp9p  
 2.python基于鲸鱼woa优化的变分模态分解vmd超参数选择：https://mbd.pub/o/bread/mbd-Y5uamZxx  
 3.matlab基于人工大猩猩部队GTO优化的共振稀疏分解RSSD超参数选择：https://mbd.pub/o/bread/Y5uam5hs    
+4.matlab基于鲸鱼优化WOA优化的共振稀疏分解RSSD超参数选择：https://mbd.pub/o/bread/Y52Ymp1s      
+2.python基于白鲸bwo优化的变分模态分解vmd超参数选择：https://mbd.pub/o/bread/Y52Ym51r    
 
 12）自定义layer
 ----
